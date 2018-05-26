@@ -1,4 +1,4 @@
-## Conquering the CISSP Exam
+## CISSP Exam Success
 
 You can use the [editor on GitHub](https://github.com/RDSecurity/CISSP-Experience/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
